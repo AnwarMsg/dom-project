@@ -1,0 +1,30 @@
+html{
+    background-color: blanchedalmond;
+}
+
+
+.ctn{
+    height: 150px;
+    width: 80%;
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 15px;
+    border: 1px solid black;
+}
+h1{
+    display: inline-block;
+    margin-left: 350px;
+    margin-top: 60px;
+    width: 300px;
+
+}
+.move{
+    margin-left: 170px;
+}
+p{
+    display: inline-block;
+    margin-left: 80px;
+}
+input{
+    width: 40px;
+}
